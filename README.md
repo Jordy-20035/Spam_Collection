@@ -9,10 +9,15 @@ Dataset
 The dataset used in this project is a collection of SMS messages that can be found in the SMSSpamCollection file. Each message is labeled as "ham" or "spam".
 Requirements
 To run this project, the following Python libraries should be installed:
+
 •	pandas
+
 •	numpy
+
 •	nltk
+
 •	scikit-learn
+
 •	matplotlib
 
 Steps Implemented
